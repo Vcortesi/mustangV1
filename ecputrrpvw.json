@@ -1,0 +1,26 @@
+{
+    "firstName": "Killua",
+    "lastName" : "Zoldyck",
+    "preferredName":"Killua",
+    "email":"thirdzoldyck@gmail.com",
+    "phoneNumber":"999-123-653",
+    "class":"cpsc-24700-001",
+    "room":"AS-104-A",
+    "startTime":"3pm CT",
+    "seatNumber":"-",
+    "inPerson":[
+        
+    ],
+    "virtual":[
+        "Monday",
+        "Wednesday",
+        "Friday"
+    ],
+    "city":"Kukuroo Mountain",
+    "state":"Republic of Padokea",
+    "zip":"45872",
+    "lat":"19.406893",
+    "lng":"-155.283386",
+    "favoriteHobby":"Skateboarding",
+    "favoriteVideoGame":"Dishonored"
+}

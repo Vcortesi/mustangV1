@@ -1,0 +1,25 @@
+{
+    "firstName": "Vincent",
+    "lastName" : "Cortesi",
+    "preferredName":"Vincent/Vince",
+    "email":"vincentacortesi@lewisu.edu",
+    "phoneNumber":"773-606-8794",
+    "class":"cpsc-24700-001",
+    "room":"AS-104-A",
+    "startTime":"3pm CT",
+    "seatNumber":"-",
+    "inPerson":[
+        "Monday",
+        "Wednesday"
+    ],
+    "virtual":[
+        "Friday"
+    ],
+    "city":"Chicago",
+    "state":"IL",
+    "zip":"60638",
+    "lat":"41.787980",
+    "lng":"-87.767250",
+    "favoriteHobby":"Soap Carving",
+    "favoriteVideoGame":"Skryim"
+}
